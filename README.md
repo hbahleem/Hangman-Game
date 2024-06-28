@@ -12,7 +12,6 @@ A simple Terminal-based Hangman game implemented in Java.
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -35,7 +34,7 @@ This Hangman game allows you to play the classic word-guessing game in the conso
 
 - Java Development Kit (JDK) 8 or higher.
 
-## Usage
+## Usage(idk if any of this works)
 
 1. Clone the repository:
     ```bash
@@ -65,24 +64,6 @@ This Hangman game allows you to play the classic word-guessing game in the conso
 5. Guess letters to uncover the word. You can exit the game at any time by typing 'exit'.
 6. After the game ends, you can choose to play again or exit.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
-
-1. Fork the repository.
-2. Create your feature branch:
-    ```bash
-    git checkout -b feature/AmazingFeature
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add some AmazingFeature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/AmazingFeature
-    ```
-5. Open a Pull Request.
 
 ## License
 
