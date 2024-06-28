@@ -1,17 +1,9 @@
 Lowkey me no github
-
 download files and just run locally
-to run file :
 javac hangman.java & java hangman
-
-..............i add later
-
-when running file you will be greeted with a menu and
-
-gpted
 # Hangman Game
 
-A simple console-based Hangman game implemented in Java.
+A simple Terminal-based Hangman game implemented in Java.
 
 ## Table of Contents
 
@@ -26,6 +18,9 @@ A simple console-based Hangman game implemented in Java.
 ## Introduction
 
 This Hangman game allows you to play the classic word-guessing game in the console. You can choose to play with a friend locally, use a custom word library, or play with a dictionary of words.
+
+
+![image](https://github.com/hbahleem/Hangman-Game/assets/162549123/2d6cf46b-2475-45cd-977e-9aca802aeef1)
 
 ## Features
 
