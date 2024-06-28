@@ -224,7 +224,7 @@ public class hangman {
     }
 
     private static String getRandomWord() {
-        String[] words = {"java", "programming", "hangman", "chingchong"};
+        String[] words = {"sumsa", "fun", "hangman", "Nihao"};
         int index = new Random().nextInt(words.length);
         return words[index];
     }
