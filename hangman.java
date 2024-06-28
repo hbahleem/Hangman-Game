@@ -320,7 +320,7 @@ public class hangman {
                 return;
                 
             }
-            scanner.close();
+            
         }
 
         System.out.println("Game over! The word was: " + word);
