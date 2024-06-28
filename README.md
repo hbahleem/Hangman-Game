@@ -12,7 +12,7 @@ A simple Terminal-based Hangman game implemented in Java.
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [How to Play](#how-to-play)
-- [License](#license)
+
 
 ## Introduction
 
@@ -64,7 +64,3 @@ This Hangman game allows you to play the classic word-guessing game in the conso
 5. Guess letters to uncover the word. You can exit the game at any time by typing 'exit'.
 6. After the game ends, you can choose to play again or exit.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
